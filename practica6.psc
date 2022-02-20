@@ -38,7 +38,7 @@ Algoritmo sin_titulo
 	
 	mostrar "El monto del cambio es " billetes - monto_total "$"
 	mostrar "En Bs es " (billetes - monto_total) * tasa_cambio
-	
+	Mostrar "KATERIN RIVERO!!"
 	
 FinAlgoritmo
 
